@@ -1,0 +1,11 @@
+Country name,Happiness Rank,Happiness score,Upperwhisker,Lowerwhisker,Economy (GDP per Capita),Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+Jamaica,60,5.89,6.13,5.65,0.78,1.41,0.79,0.55,0.12,0.03
+El Salvador,34,6.35,6.46,6.23,0.75,1.15,0.75,0.52,0.12,0.12
+Moldova,70,5.61,5.69,5.52,0.71,1.24,0.71,0.39,0.17,0.01
+Tunisia,128,4.39,4.49,4.29,0.87,0.87,0.78,0.24,0.06,0.04
+Brazil,32,6.38,6.46,6.3,0.95,1.36,0.77,0.48,0.13,0.11
+Gabon,108,4.83,4.95,4.71,0.99,1.11,0.52,0.37,0.05,0.06
+Cameroon,98,5.08,5.22,4.95,0.5,0.9,0.27,0.44,0.2,0.05
+Costa Rica,15,7.12,7.21,7.03,0.98,1.37,0.94,0.65,0.13,0.1
+Thailand,54,6.0,6.08,5.92,1.01,1.35,0.79,0.61,0.38,0.03
+Cyprus,45,6.16,6.26,6.06,1.21,1.15,1.03,0.46,0.23,0.05
